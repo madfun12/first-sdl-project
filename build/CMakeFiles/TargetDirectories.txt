@@ -1,8 +1,0 @@
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/CMakeFiles/hello.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/CMakeFiles/edit_cache.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/CMakeFiles/rebuild_cache.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/vendored/SDL/CMakeFiles/SDL3_test.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/vendored/SDL/CMakeFiles/edit_cache.dir
-/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
