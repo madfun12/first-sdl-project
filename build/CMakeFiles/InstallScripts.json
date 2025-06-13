@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/cmake_install.cmake",
+		"/Users/mfunderburk/projects/c/graphics/first-sdl-project/build/vendored/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
